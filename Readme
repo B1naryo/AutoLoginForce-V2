@@ -1,0 +1,11 @@
+Sure! Here's a summary in English:
+
+The provided program is written in Python and uses the Selenium library to automate interactions with a web browser, specifically Google Chrome. Here's what is needed to use the program:
+
+1. Required libraries:
+   - Selenium: This is the main library used to automate the browser. It can be installed using the command `pip install selenium`.
+   - ChromeDriver: This is the driver required to interact with Google Chrome. The program assumes that ChromeDriver is located at "/home/sandro/AutoLoginForce/chromedriver". Make sure you have the compatible ChromeDriver installed. You can download it from the official ChromeDriver website: https://sites.google.com/a/chromium.org/chromedriver/downloads.
+
+2. Configurations:
+   - URL: Replace the `url` variable with the URL address of the page where you want to test the passwords.
+  

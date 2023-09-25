@@ -1,0 +1,17 @@
+Here are the requirements for running this script:
+
+1. Python: Make sure you have Python installed on your system. You can download Python from the official website (https://www.python.org) and follow the installation instructions for your operating system.
+
+2. Selenium Library: Install the Selenium library, which is used for automating web browsers. You can install it using pip, the package installer for Python. Run the following command in your terminal or command prompt:
+
+   ```
+   pip install selenium
+   ```
+
+3. ChromeDriver: Download the ChromeDriver executable, which is required for controlling the Chrome browser. Make sure to download the appropriate version of ChromeDriver that matches your Chrome browser version. You can download ChromeDriver from the official website (https://sites.google.com/a/chromium.org/chromedriver/downloads).
+
+4. Chrome Browser: Ensure that you have the Chrome browser installed on your system. You can download it from the official Google Chrome website (https://www.google.com/chrome).
+
+5. Text File: Prepare a text file containing a list of passwords to test. Each password should be on a separate line. Specify the path to this text file in the script (`file_path` variable).
+
+That's it! With these requirements fulfilled, you should be able to run the script successfully and perform the automated login testing.
